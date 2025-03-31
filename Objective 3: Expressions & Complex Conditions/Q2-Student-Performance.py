@@ -2,7 +2,7 @@
 Question 2: Student Performance
 Description: Write a program that checks if a student has passed or failed based on two conditions:
 
-The student's grade must be 60 or higher.
+The student's grade must be 65 or higher.
 The student must have attended more than 75% of the classes.
 '''
 
