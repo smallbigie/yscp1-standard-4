@@ -10,3 +10,5 @@ Description: Write a program that uses nested loops to print the multiplication 
 
     # Use a nested loop to print the table for each number
     
+
+    
