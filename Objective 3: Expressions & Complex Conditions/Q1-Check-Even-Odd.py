@@ -9,7 +9,8 @@ number = int(input("Enter a number: "))
 
 # Use relational and logical operators to check for even/odd & Print out which it is to the terminal
 
-if num % 2 == 0:
-    print("This is")
-elif num
-    print("")
+if number % 2 == 0 and number != 0:
+    print(number, "is even")
+elif number % 2 != 0: 
+    print(number, "is odd")
+
