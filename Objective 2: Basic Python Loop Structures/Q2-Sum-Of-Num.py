@@ -12,5 +12,8 @@ total_sum = 0
 
 # Use a for loop to iterate through the numbers
 
-for numbers in range [10, 20, 30, 40, 50]:
+for num in numbers:
+    total_sum += num
+
+print("Total sum of numbers:", total_sum)
     

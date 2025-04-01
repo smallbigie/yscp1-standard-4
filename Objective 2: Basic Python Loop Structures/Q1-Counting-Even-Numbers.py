@@ -11,4 +11,8 @@ even_count = 0
 
 # Loop through the numbers and check for even numbers
 
-for numbers in range(1,21): 
+for num in numbers:
+    if num % 2 == 0:
+        even_count += 1
+
+print("Numbers of even numbers:", even_count)

@@ -8,3 +8,8 @@ Description: Write a program that takes an integer as input and checks if it's e
 number = int(input("Enter a number: "))
 
 # Use relational and logical operators to check for even/odd & Print out which it is to the terminal
+
+if num % 2 == 0:
+    print("This is")
+elif num
+    print("")
